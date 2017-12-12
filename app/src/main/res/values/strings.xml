@@ -3,4 +3,17 @@
     <string name="seu_login">Seu Login</string>
     <string name="sua_senha">Sua Senha</string>
     <string name="conectar">Conectar</string>
+    <string name="vale_refeicao">Vale Refeição</string>
+    <string name="cartao_credito">Cartão de Crédito</string>
+    <string name="cartao_debito">Cartão de Débito</string>
+    <string name="dinheiro">Dinheiro</string>
+    <string name="escolha_a_s_pizza_s">Escolha a(s) pizza(s)</string>
+    <string name="bacon">Bacon</string>
+    <string name="atum">Atum</string>
+    <string name="tamanho_da_pizza">Tamanho da Pizza</string>
+    <string name="broto">Broto</string>
+    <string name="normal">Normal</string>
+    <string name="forma_de_pagamento">Forma de Pagamento</string>
+    <string name="fechar_pedido">Fechar Pedido</string>
+
 </resources>
